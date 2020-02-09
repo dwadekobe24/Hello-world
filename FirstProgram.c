@@ -102,7 +102,7 @@ char intergerCoverToChinese(int k)
     
 }
 
-
+// 计算
 int calculate(char s[10],int m,int n)
 {
     int result;
