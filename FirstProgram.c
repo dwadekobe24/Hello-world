@@ -10,13 +10,9 @@ int main(int argc,char** argv)
     int result,FInterger;
     scanf("%s %s %s %s",&a,&b,&c,&d);
     result = chineseCoverToInterger(d);
-    int flag = 1 ;
-    
-    
-    while(flag)
+    while(1)
     {
-        
-  
+
         scanf("%s", &bb);
 
 
